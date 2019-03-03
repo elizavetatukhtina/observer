@@ -1,1 +1,1 @@
-# observer
+# Simple example of Observer pattern. 
